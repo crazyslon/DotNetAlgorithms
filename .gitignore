@@ -396,3 +396,7 @@ fabric.properties
 
 # *.iml
 # modules.xml
+
+# JetBrains Rider
+.idea/
+*.sln.iml
